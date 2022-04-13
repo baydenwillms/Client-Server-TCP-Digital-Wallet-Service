@@ -1,0 +1,16 @@
+PIN:0284
+Owner:test
+Balance:20
+Completed Transactions:
+Transaction ID: 49491
+Sent to: test
+Sent from: bawi
+Amount: 5
+Status: C
+Accepted/Denied/Refund/Completed: C
+Transaction ID: 49491
+Sent to: bawi
+Sent from: test
+Amount: 5
+Status: C
+Accepted/Denied/Refund/Completed: C

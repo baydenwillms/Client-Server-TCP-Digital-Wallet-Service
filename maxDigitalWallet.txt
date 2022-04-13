@@ -1,0 +1,16 @@
+PIN:0284
+Owner:max
+Balance:300
+Completed Transactions:
+Transaction ID: 31400
+Sent to: bawi
+Sent from: max
+Amount: 100
+Status: C
+Accepted/Denied/Refund/Completed: C
+Transaction ID: 31400
+Sent to: max
+Sent from: bawi
+Amount: 100
+Status: C
+Accepted/Denied/Refund/Completed: C

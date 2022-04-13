@@ -1,0 +1,16 @@
+PIN:0284
+Owner:bawi
+Balance:4900
+Completed Transactions:
+Transaction ID: 49491
+Sent to: test
+Sent from: bawi
+Amount: 5
+Status: C
+Accepted/Denied/Refund/Completed: C
+Transaction ID: 31400
+Sent to: bawi
+Sent from: max
+Amount: 100
+Status: C
+Accepted/Denied/Refund/Completed: C
